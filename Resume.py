@@ -27,4 +27,4 @@ st.write("- Server OS (Windows & Linux)")
 
 #Project
 st.header("📂 Project")
-st.write("NinJaVan Smart Tracking Systems")
+st.write("Parcel Delivery Smart Tracking Systems")
