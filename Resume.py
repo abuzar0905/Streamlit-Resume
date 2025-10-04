@@ -3,18 +3,21 @@ import streamlit as st
 st.title("Abu Zar's Resume")
 st.header("Contact Information")
 st.write("Email: abuzar0905@gmail.com")
-st.write("Phone: (+60) 011-26612895")
+st.write("Phone: (+60) 11-26612895")
 
 st.header("Education")
 st.write("Degree in Information Technology, Universiti Malaysia Kelantan, 2023 - 2026")
 
 st.header("Work Experience")
 st.write("Technician, Suruhanjaya Pilihan Raya, 2019")
-st.write("- Description of responsibilities and achievements")
+st.write("- Managing and maintaining every automated systems in the buildings(e.g Elevator, lift, AC, PA systems, lighting).")
 
 st.header("Skills")
-st.write("- Skill 1")
-st.write("- Skill 2")
+st.write("- Internet Networking")
+st.write("- Electrical wiring")
+st.write("- IOT systems")
+st.write("- Professional Audio")
+st.write("- Server OS (Windows & Linux)")
 
 st.header("Projects")
-st.write("Project Name: Description")
+st.write("NinJaVan Smart Tracking Systems: Developing an IoT-Based Smart Tracking System for Efficient Parcel Claim Handling at NinjaVan")
