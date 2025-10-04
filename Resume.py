@@ -1,8 +1,9 @@
 import streamlit as st
 
+st.title("Abu Zar's Resume")
+
 st.image("Passport Size.jpg")
 
-st.title("Abu Zar's Resume")
 st.header("Contact Information")
 st.write("Email: abuzar0905@gmail.com")
 st.write("Phone: (+60) 11-26612895")
