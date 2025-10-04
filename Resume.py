@@ -20,4 +20,4 @@ st.write("- Professional Audio")
 st.write("- Server OS (Windows & Linux)")
 
 st.header("Projects")
-st.write("NinJaVan Smart Tracking Systems: Developing an IoT-Based Smart Tracking System for Efficient Parcel Claim Handling at NinjaVan")
+st.write("Name")
