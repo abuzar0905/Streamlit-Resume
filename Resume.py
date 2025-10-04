@@ -4,7 +4,7 @@ import streamlit as st
 col1, col2 = st.columns([1, 3])
 
 with col1:
-st.image("Passport Size.jpg", caption="Abu Zar", width=180)
+  st.image("Passport Size.jpg", caption="Abu Zar", width=180)
 
 with col2:
 st.title("Abu Zar's Resume")
