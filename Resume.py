@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.image("Passport Size.jpg")
+
 st.title("Abu Zar's Resume")
 st.header("Contact Information")
 st.write("Email: abuzar0905@gmail.com")
