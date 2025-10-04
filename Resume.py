@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Abu Zar's Resume")
 
-st.image("Passport Size.jpg")
+st.image("Passport Size.jpg", caption="Abu Zar", width=180)
 
 st.header("Contact Information")
 st.write("Email: abuzar0905@gmail.com")
@@ -23,4 +23,4 @@ st.write("- Professional Audio")
 st.write("- Server OS (Windows & Linux)")
 
 st.header("Projects")
-st.write("Name")
+st.write("NinJaVan Smart Tracking Systems")
