@@ -2,12 +2,8 @@ import streamlit as st
 
 
 # Profile
-
 st.image("Passport Size.jpg", caption="Abu Zar", width=180)
 
-col1 = st.columns([1, 3])
-
-with col1:
 st.title("Abu Zar's Resume")
 st.write("📧 **Email:** abuzar0905@gmail.com")
 st.write("📱 **Phone:** (+60) 11-26612895")
