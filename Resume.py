@@ -2,15 +2,14 @@ import streamlit as st
 
 st.title("Abu Zar's Resume")
 st.header("Contact Information")
-st.write("Email: your.email@example.com")
-st.write("Phone: (123) 456-7890")
-st.write("LinkedIn: linkedin.com/in/yourprofile")
+st.write("Email: abuzar0905@gmail.com")
+st.write("Phone: (+60) 011-26612895")
 
 st.header("Education")
-st.write("Degree, University Name, Year")
+st.write("Degree in Information Technology, Universiti Malaysia Kelantan, 2023 - 2026")
 
 st.header("Work Experience")
-st.write("Job Title, Company Name, Year")
+st.write("Technician, Suruhanjaya Pilihan Raya, 2019")
 st.write("- Description of responsibilities and achievements")
 
 st.header("Skills")
