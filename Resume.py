@@ -1,9 +1,11 @@
 import streamlit as st
 
+
 # Profile
-col1 = st.columns([1, 3])
 
 st.image("Passport Size.jpg", caption="Abu Zar", width=180)
+
+col1 = st.columns([1, 3])
 
 with col1:
 st.title("Abu Zar's Resume")
